@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=1000&color=5BD4F7&center=true&vCenter=true&width=435&lines=GG;I+love+Fixi)](https://git.io/typing-svg)
+<div align = center >[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=1000&color=5BD4F7&center=true&vCenter=true&width=435&lines=GG;I+love+Fixi)](https://git.io/typing-svg)<div>
 
 <div align="center">
  <img width=53% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app?user=fk2731&theme=transparent&hide_border=true&border_radius=9&mode=weekly&card_width=521&background=45%2C441FEB5E%2C344AEB89" />
