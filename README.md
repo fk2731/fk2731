@@ -6,9 +6,22 @@
 
 <br>
 
+#### Technologies:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="(https://skillicons.dev/icons?i=java)"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="(https://skillicons.dev/icons?i=js)"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="(https://skillicons.dev/icons?i=html)"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="(https://skillicons.dev/icons?i=css)"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="(https://skillicons.dev/icons?i=react)"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="(https://skillicons.dev/icons?i=php)"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="(https://skillicons.dev/icons?i=lua)"/>]()
+
+
 #### Tools:
 
-  [<img height="48px" width="48px" alt="Icone ArchLinux" src="https://skillicons.dev/icons?i=arch"/>](https://archlinux.org/)
+  [<img height="48px" width="48px" alt="Icone ArchLinux" src="https://skillicons.dev/icons?i=arch,linux"/>](https://archlinux.org/)
+  [<img height="48px" width="48px" alt="Icone ArchLinux" src="https://skillicons.dev/icons?i=linux"/>]()
   [<img height="48px" width="48px" alt="Icone NeoVim" src="https://skillicons.dev/icons?i=neovim"/>]()
-  [<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>]()
   [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+
+------
