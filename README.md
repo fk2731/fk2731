@@ -1,7 +1,7 @@
 <div align="center"> <br> GG <br> </div>
 
 <div align="center">
- <img width=55% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app?user=fk2731&theme=transparent&hide_border=true&border_radius=9&mode=weekly&card_width=521&background=45%2C441FEB5E%2C344AEB89" />
+ <img width=53% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app?user=fk2731&theme=transparent&hide_border=true&border_radius=9&mode=weekly&card_width=521&background=45%2C441FEB5E%2C344AEB89" />
   <img width=35% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk2731&layout=compact&theme=aura" />
 </div>
 
