@@ -8,8 +8,10 @@
 <br>
 
 #### Technologies:
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>]()
 [<img height="48px" width="48px" alt="Icone JS" src="https://skillicons.dev/icons?i=js"/>]()
+[<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=py"/>]()
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>]()
+[<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=bash"/>]()
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>]()
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>]()
 [<img height="48px" width="48px" alt="Icone Lua" src="https://skillicons.dev/icons?i=lua"/>]()
@@ -17,7 +19,6 @@
 <br>
 
 #### Tools:
-
   [<img height="48px" width="48px" alt="Icone ArchLinux" src="https://skillicons.dev/icons?i=arch"/>](https://archlinux.org/)
   [<img height="48px" width="48px" alt="Icone ArchLinux" src="https://skillicons.dev/icons?i=linux"/>]()
   [<img height="48px" width="48px" alt="Icone NeoVim" src="https://skillicons.dev/icons?i=neovim"/>]()
