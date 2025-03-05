@@ -1,6 +1,6 @@
 <div align="center"> <br> GG <br> </div>
 
-### Stats:
+#### Stats:
 
 <div align="center">
  <img width=55% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app?user=fk2731&theme=transparent&hide_border=true&border_radius=9&mode=weekly&card_width=521&background=45%2C441FEB5E%2C344AEB89" />
