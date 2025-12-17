@@ -23,5 +23,3 @@
   [<img height="48px" width="48px" alt="Icone NeoVim" src="https://skillicons.dev/icons?i=neovim"/>]()
   [<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>]()
   [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-
-------
